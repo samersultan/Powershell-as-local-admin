@@ -26,3 +26,9 @@ exit
 }
 
 'running with full privileges'
+
+<#
+......
+End of local Admin Script 
+......
+#> 
