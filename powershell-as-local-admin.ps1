@@ -29,6 +29,6 @@ exit
 
 <#
 ......
-End of local Admin Script 
+End of local admin script 
 ......
 #> 
